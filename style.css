@@ -1,0 +1,29 @@
+h2{
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+}
+.mole img{
+    max-width: 200px;
+    height: 200px;
+    overflow: hidden;
+
+}
+.mole{
+    background-image: url('png-clipart-jumping-mole-cartoon-whack-s-comics-mammal-thumbnail.png');
+
+}
+
